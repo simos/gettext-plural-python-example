@@ -1,0 +1,34 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Simos Xenitellis <simos@gnome.org>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: test 1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-04-18 11:06+0300\n"
+"PO-Revision-Date: 2011-04-18 11:07+0300\n"
+"Last-Translator: Simos Xenitellis <simos@gnome.org>\n"
+"Language-Team: Greek <team@lists.gnome.gr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: sample.py:9
+msgid "This is a translatable string."
+msgstr "Αυτό είναι ένα μεταφράσιμο αλφαριθμητικό."
+
+#: sample.py:11
+#, python-format
+msgid ""
+"%(useful_favorable)s of %(useful_total)s people found this review helpful, "
+"including you"
+msgid_plural ""
+"%(useful_favorable)s of %(useful_total)s people found this review helpful, "
+"including you"
+msgstr[0] "Εσείς μόνο αξιολογήσατε, και αξιολογήσατε θετικά"
+msgstr[1] ""
+"%(useful_favorable)s από %(useful_total)s άτομα βρήκαν την αξιολόγηση χρήσιμη"
